@@ -1874,7 +1874,7 @@ td.mat-footer-cell {
 }
 .mat-drawer-container {
  background-color:#fafafa;
- color:rgb(255, 255, 255);
+ color:#fff;
 }
 .mat-drawer {
  background-color:#fff;
